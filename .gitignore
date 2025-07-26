@@ -1,0 +1,13 @@
+# Created by https://www.toptal.com/developers/gitignore/api/web
+# Edit at https://www.toptal.com/developers/gitignore?templates=web
+
+### Web ###
+*.asp
+*.cer
+*.csr
+*.jsp
+*.php
+*.rss
+*.wasm
+*.wat
+*.xhtml
